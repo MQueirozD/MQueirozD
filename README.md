@@ -1,4 +1,4 @@
-## Oiee, eu sou a Mateu de Queiroz Davidson! 👋
+## Oiee, eu sou a Mateus de Queiroz Davidson! 👋
 
 - 🔭 25 anos
 - 🌱 Estudante - Análise e Desenvolvimento de Sistemas 4/5 Semestre | Facens/Sorocaba 

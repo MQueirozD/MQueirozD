@@ -30,6 +30,6 @@
   <a href="https://www.behance.net/mateusqd" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 
 ## 
-  ![Snake animation](https://github.com/MQueirozD/MQueirozD/commit/d0ad3ebe8c1fce276e54bc32744b22015907d721)
+  ![Snake animation](https://github.com/MQueirozD/MQueirozD/blob/output/github-contribution-grid-snake.svg)
  
 </div>

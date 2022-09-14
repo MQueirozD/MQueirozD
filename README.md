@@ -11,12 +11,20 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MQueirozD&layout=compact&langs_count=7&theme=calm"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="M-Java" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/183265197-b74428f7-5f1d-40e7-9821-5b7b98a64cb8.png">
-  <img align="center" alt="M-Js" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/183265216-7a3d24f6-ac9e-459a-a27b-da31c80a512a.png">
-  <img align="center" alt="M-React" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/183265227-0cc8bf69-bd44-4f1f-8b34-04d814aba076.png">
-  <img align="center" alt="M-HTML" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/183265243-e6c05153-fe7c-42b9-8195-0add6e4f8dd2.png">
-  <img align="center" alt="M-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/183265251-36a509b7-0637-4577-96b2-4cba5b4cbaf5.png">
-  <img align="center" alt="M-Python" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/183265177-8c1a33a7-c73e-4855-adef-6ae5929ba401.png">
+  <img align="center" alt="M-Java" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/190159217-9b9974c1-8b8c-4154-81ee-7eb2bd38c7d9.png">
+  <img align="center" alt="M-Js" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/190160725-68d72aa0-6903-4b52-98f4-e70769f36342.png">
+  <img align="center" alt="M-HTML" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/190161485-1e46aac3-bc4a-402c-b04d-3138a8433007.png">
+  <img align="center" alt="M-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/190160542-355c26f4-afaf-485a-9e75-04dea5091cc3.png">
+  <img align="center" alt="M-MySQL" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/190161907-e9301578-48e5-423b-86c1-aa38a1c0a2a6.png">
+  <img align="center" alt="M-React" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/190161009-9d6d49a5-bc02-4b26-8923-687caa2d01f1.png">
+  <img align="center" alt="M-Typescript" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/190162168-6c01277c-334e-4206-a7f5-c442937f9aa2.png">
+
+
+
+
+
+
+
  
 </div>
   

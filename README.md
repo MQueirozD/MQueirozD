@@ -7,9 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/MQueirozD">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MQueirozD&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MQueirozD&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MQueirozD&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MQueirozD&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="M-Java" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/190159217-9b9974c1-8b8c-4154-81ee-7eb2bd38c7d9.png">
   <img align="center" alt="M-Js" height="40" width="40" src="https://user-images.githubusercontent.com/84162653/190160725-68d72aa0-6903-4b52-98f4-e70769f36342.png">

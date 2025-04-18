@@ -1,7 +1,7 @@
 ## Oiee, eu sou a Mateus de Queiroz Davidson! 👋
 
-- 🔭 26 anos
-- 🌱 Estudante - Análise e Desenvolvimento de Sistemas 5/5 Semestre | Facens/Sorocaba 
+- 🔭 28 anos
+- 🌱 Curso - Análise e Desenvolvimento de Sistemas 5/5 Semestre | Facens/Sorocaba 
 - 🧠 Bootcamp - Pessoa desenvolvedora web | Generation
 - 🤔 Futuro Front-end
 
